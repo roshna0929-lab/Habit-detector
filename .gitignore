@@ -1,0 +1,5 @@
+habit-tracker-app/
+│
+├── .gitignore
+├── backend/
+├── frontend/
